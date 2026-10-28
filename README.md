@@ -8,7 +8,7 @@ Estudiante de Informática (UNAHUR) y desarrollador **backend**. Busco mi primer
 
 ## Stack
 - **Lenguajes:** TypeScript, JavaScript, Python, Java, PHP, SQL
-- **Backend y datos:** Node.js, APIs, Google Sheets API, bases de datos relacionales y NoSQL
+- **Backend y datos:** Node.js, APIs, bases de datos relacionales y NoSQL
 - **Cloud y herramientas:** Azure (VM), Git, GitHub
 - **Aprendiendo ahora:** ORM/ODM (Sequelize), AWS
 
