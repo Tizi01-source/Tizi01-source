@@ -19,5 +19,5 @@ Estudiante de Informática (UNAHUR) y desarrollador **backend**. Busco mi primer
 - [tienda-gaming-react](https://github.com/Tizi01-source/tienda-gaming-react): tienda online en React 19 (trabajo práctico de UNAHUR).
 
 ## Contacto
-- LinkedIn: https://www.linkedin.com/in/tiziano-costantini-marquez-8238b42b3
+- LinkedIn: https://www.linkedin.com/in/tiziano-costantini
 - Email: costantinitiziano05@gmail.com
